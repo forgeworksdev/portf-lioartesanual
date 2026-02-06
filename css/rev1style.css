@@ -39,7 +39,7 @@ html {
     min-width: 100vw;
 
 
-    background-image: url('../assets/images/backgrounds/industrialtimes.png');
+    background-image: url(../assets/images/backgrounds/industrialtimes.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
