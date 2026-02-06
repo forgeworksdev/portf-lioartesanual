@@ -1,6 +1,6 @@
 @font-face {
     font-family: Press_Start_2P;
-    src: url(../assets/fonts/Press_Start_2P/PressStart2P-Regular.ttf') format('truetype');
+    src: url('../assets/fonts/Press_Start_2P/PressStart2P-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -39,7 +39,7 @@ html {
     min-width: 100vw;
 
 
-    background-image: url(../assets/images/backgrounds/industrialtimes.png);
+    background-image: url('../assets/images/backgrounds/industrialtimes.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
